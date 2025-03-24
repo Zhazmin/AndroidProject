@@ -1,8 +1,9 @@
 // 通用配置
 android {
+    compileSdk 33
+
 
     // 编译源码版本
-    compileSdkVersion 30
     defaultConfig {
         // 最低安装版本
         minSdkVersion 21

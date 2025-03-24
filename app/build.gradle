@@ -213,4 +213,5 @@ dependencies {
     // 设备唯一标识：http://msa-alliance.cn/col.jsp?id=120
     // 嵌套滚动容器：https://github.com/donkingliang/ConsecutiveScroller
     // 隐私调用监控：https://github.com/huage2580/PermissionMonitor
+    implementation("org.greenrobot:eventbus:3.3.1")
 }
